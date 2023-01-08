@@ -1,0 +1,23 @@
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\bin\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.exe
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\bin\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.deps.json
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\bin\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.runtimeconfig.json
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\bin\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.dll
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\bin\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.pdb
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\bin\Debug\net6.0-windows\en\Jovellano, Vincent Harley R. - COPRO4.resources.dll
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.csproj.AssemblyReference.cache
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano__Vincent_Harley_R.___COPRO4.Form1.resources
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano__Vincent_Harley_R.___COPRO4.Form2.resources
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano__Vincent_Harley_R.___COPRO4.Form2.en.resources
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.csproj.GenerateResource.cache
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.AssemblyInfoInputs.cache
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.AssemblyInfo.cs
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.csproj.CoreCompileInputs.cache
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\en\Jovellano, Vincent Harley R. - COPRO4.resources.dll
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.dll
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\refint\Jovellano, Vincent Harley R. - COPRO4.dll
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.pdb
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano, Vincent Harley R. - COPRO4.genruntimeconfig.cache
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\ref\Jovellano, Vincent Harley R. - COPRO4.dll
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano__Vincent_Harley_R.___COPRO4.Form3.resources
+C:\Users\ftaut\Documents\Projects\Jovellano, Vincent Harley R. - COPRO4\obj\Debug\net6.0-windows\Jovellano__Vincent_Harley_R.___COPRO4.Form5.resources

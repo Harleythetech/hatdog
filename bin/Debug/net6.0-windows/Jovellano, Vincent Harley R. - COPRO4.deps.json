@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jovellano, Vincent Harley R. - COPRO4/1.0.0": {
+        "runtime": {
+          "Jovellano, Vincent Harley R. - COPRO4.dll": {}
+        },
+        "resources": {
+          "en/Jovellano, Vincent Harley R. - COPRO4.resources.dll": {
+            "locale": "en"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jovellano, Vincent Harley R. - COPRO4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
